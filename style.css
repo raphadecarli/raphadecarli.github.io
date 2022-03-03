@@ -1,0 +1,96 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/* body {
+    background-color: rgb(66, 64, 41); */
+}
+
+#Pet {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Hístoria {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: chartreuse;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+.principal {
+    background-image: url("/Piscina2.jpg");
+    background-size: cover;
+    background-position: 50%;
+    border-bottom: 15px solid rgb(236, 136, 4);
+}
+
+.segunda {
+    top: 100;
+    text-align: left;
+    max-width: 250px;
+    min-width: 200px;
+    padding: 0px 100px 120px 10px;
+}
+h2 {
+    color: aqua;
+    text-align:left;
+    padding: 50px 0 10px 10px;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+.ul li {
+    display: inline-block;
+    padding: 50px 3px;
+    float: left;
+}
+ol li:hover {
+    background-color: rgb(0, 255, 0);
+    color: black;
+}
+h1 {
+    position: absolute;
+    left: 30%;
+    padding: 5px;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    color: white;
+}
+#fundosegundaria {
+    background-color: black;
+    color: white;
+    border-bottom: 15px solid rgb(236, 136, 4);
+}
+.segundaria {
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    padding: 5px 10px;   
+}
+.picture {
+    border-radius: 100%;
+}
+#quatro {
+    text-align: center;
+    background-color: rgb(0, 255, 42);
+    vertical-align:middle;
+}
+#quatroum {
+    float: left;
+    max-width: 250px;
+    padding-left: 50px;
+}
+#quatrodois {
+    float:left;
+}
+#button {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:12px;
+    padding: 20px 30px;
+    background-color: rgb(0, 255, 0);
+    border-radius: 100%;
+    margin: 25px;
+    border: 3px solid rgb(4, 0, 255);
+    font-weight: bold;
+    float: left;
+    width: 60px;
+}
+
